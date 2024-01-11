@@ -7,6 +7,8 @@ Next, Download zip folder of code:
 
 # Running the code
 After extracting from zip, open the folder, open command prompt and navigate to the path of the folder:
+
+
   For eg: if folder is on c drive:
   c:/... > cd VenueBookingSystem-main
 
