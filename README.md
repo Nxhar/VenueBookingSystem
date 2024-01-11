@@ -1,8 +1,16 @@
-# React + Vite
+# Prerequisites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Install NodeJS and add to path - [Download Here](https://nodejs.org/en/download/)
 
-Currently, two official plugins are available:
+Next, Download zip folder of code:
+   Hit on the green code<> button, download and extract the folder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Running the code
+After extracting from zip, open the folder, open command prompt and navigate to the path of the folder:
+  For eg: if folder is on c drive:
+  c:/... > cd VenueBookingSystem-main
+
+Now hit : npm init
+Next    : npm run dev 
+
+Project will be started in localhost:5173.
