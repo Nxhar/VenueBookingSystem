@@ -13,6 +13,7 @@ After extracting from zip, open the folder, open command prompt and navigate to 
   c:/... > cd VenueBookingSystem-main
 
 Now hit : npm init
+
 Next    : npm run dev 
 
 Project will be started in localhost:5173.
